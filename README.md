@@ -1,2 +1,2 @@
 # aks-terraform
-Create a AKS Cluster using Terraform
+Create an AKS Cluster using Terraform
